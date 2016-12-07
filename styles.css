@@ -1,0 +1,382 @@
+p{
+	font-size:15px;
+	word-spacing: 20px;
+	color:#c4c4c4;
+}
+.image{
+	width:600px;
+		
+}
+img{
+	width:150px;
+}
+.preview{
+	width: 297px;	
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+a:link {
+    color: inherit;
+}
+
+a:visited {
+     color: inherit;
+}
+
+a:hover {
+	font-size:20px;
+    color: #23c9fc;
+}
+.img :hover {
+	 outline: 2px solid #666;
+}
+
+a:active {
+    color: inherit;
+} 
+body{
+	
+	 overflow-x:hidden;
+}
+html { 
+  
+	background-color:#191919;
+	
+}
+.specific-page{
+	overflow: hidden;
+	
+	
+}
+.disc{
+	text-align: justify;
+	
+}
+.pbig
+{
+	font-size:25px;	
+}
+.secret{
+	color:#ffb200;
+	font-size:18px;
+}
+.design{
+	text-align:auto;
+	opacity:0.9;
+	z-index:-1;
+	-webkit-filter: blur(6px);
+  filter: blur(6px);
+	word-spacing: 20px;
+	position: absolute;
+	font-family: 'Poiret One', regular;
+	font-size:100px; 
+	color:#828282;
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Chrome/Safari/Opera */
+    -khtml-user-select: none; /* Konqueror */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+			
+}
+.elem1{
+	 -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 54s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 54s;
+	animation-iteration-count: infinite;
+}
+.elem2{
+	 -webkit-animation-name: example1; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 60s; /* Safari 4.0 - 8.0 */
+    animation-name: example1;
+    animation-duration: 60s;
+	animation-iteration-count: infinite;
+}
+.elem2{
+	 -webkit-animation-name: example2; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 70s; /* Safari 4.0 - 8.0 */
+    animation-name: example2;
+    animation-duration: 70s;
+	animation-iteration-count: infinite;
+}
+
+.elem3{
+	 -webkit-animation-name: example3; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example3;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+.elem4{
+	 -webkit-animation-name: example7; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example7;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+.elem5{
+	 -webkit-animation-name: example4; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example4;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+.elem6{
+	 -webkit-animation-name: example5; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example5;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+.elem7{
+	 -webkit-animation-name: example6; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 80s; /* Safari 4.0 - 8.0 */
+    animation-name: example6;
+    animation-duration: 80s;
+	animation-iteration-count: infinite;
+}
+.elem8{
+	 -webkit-animation-name: example7; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 90s; /* Safari 4.0 - 8.0 */
+    animation-name: example7;
+    animation-duration: 90s;
+	animation-iteration-count: infinite;
+}
+.elem9{
+
+	font-size:40px;
+	 -webkit-animation-name: example4; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 100s; /* Safari 4.0 - 8.0 */
+    animation-name: example4;
+    animation-duration: 100s;
+	animation-iteration-count: infinite;
+}
+.elem10{
+	 -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 34s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 34s;
+	animation-iteration-count: infinite;
+}
+.elem11{
+	 -webkit-animation-name: example1; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example1;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+.elem12{
+	 -webkit-animation-name: example6; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 30s; /* Safari 4.0 - 8.0 */
+    animation-name: example6;
+    animation-duration: 30s;
+	animation-iteration-count: infinite;
+}
+
+.elem13{
+	 -webkit-animation-name: example2; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example2;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+.elem14{
+	 -webkit-animation-name: example3; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 40s; /* Safari 4.0 - 8.0 */
+    animation-name: example3;
+    animation-duration: 40s;
+	animation-iteration-count: infinite;
+}
+.elem15{
+	 -webkit-animation-name: example5; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 15s; /* Safari 4.0 - 8.0 */
+    animation-name: example5;
+    animation-duration: 15s;
+	animation-iteration-count: infinite;
+}
+.elem16{
+	 -webkit-animation-name: example7; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 40s; /* Safari 4.0 - 8.0 */
+    animation-name: example7;
+    animation-duration: 40s;
+	animation-iteration-count: infinite;
+}
+.elem17{
+	 -webkit-animation-name: example8; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 25s; /* Safari 4.0 - 8.0 */
+    animation-name: example8;
+    animation-duration: 25s;
+	animation-iteration-count: infinite;
+}
+.elem18{
+	 
+	
+	font-size:40px;
+	 -webkit-animation-name: example3; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 50s; /* Safari 4.0 - 8.0 */
+    animation-name: example3;
+    animation-duration: 50s;
+	animation-iteration-count: infinite;
+}
+@-webkit-keyframes example 
+{
+    0%   {left:0px; top:0px;}
+    25%  {left:800px; top:0px;}
+    50%  { left:200px; top:200px;}
+    75%  { left:0px; top:200px;}
+    100% { left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example 
+{
+   0%   {left:0px; top:0px;}
+    25%  {left:800px; top:0px;}
+    50%  { left:800px; top:200px;}
+    75%  { left:0px; top:200px;}
+    100% { left:0px; top:0px;}
+}
+@-webkit-keyframes example1
+{
+     0%   {left:600px; top:500px;}
+    25%  {left:1200px; top:300px;}
+    50%  { left:400px; top:300px;}
+    75%  { left:700px; top:200px;}
+    100% {left:600px; top:500px;}
+}
+
+/* Standard syntax */
+@keyframes example1 
+{
+   0%   {left:600px; top:500px;}
+    25%  {left:1200px; top:300px;}
+    50%  { left:400px; top:300px;}
+    75%  { left:700px; top:200px;}
+    100% {left:600px; top:500px;}
+}
+@-webkit-keyframes example2
+{
+     0%   {left:1300px; top:800px;}
+    25%  {left:700px; top:800px;}
+    50%  { left:700px; top:900px;}
+    75%  { left:700px; top:200px;}
+    0%   {left:1300px; top:800px;}
+}
+
+/* Standard syntax */
+@keyframes example2 
+{
+    0%   {left:1300px; top:800px;}
+    25%  {left:700px; top:800px;}
+    50%  { left:700px; top:900px;}
+    75%  { left:700px; top:200px;}
+    0%   {left:1300px; top:800px;}
+}
+
+@-webkit-keyframes example3
+{
+     0%  {left:1600px; top:100px;}
+    25%  {left:150px; top:100px;}
+    50%  { left:150px; top:400px;}
+    75%  { left:1600px; top:400px;}
+    100%  {left:1600px; top:100px;}
+}
+
+/* Standard syntax */
+@keyframes example3 
+{
+    0%  {left:1600px; top:100px;}
+    25%  {left:150px; top:100px;}
+    50%  { left:150px; top:400px;}
+    75%  { left:1600px; top:400px;}
+    100%  {left:1600px; top:100px;}
+}
+
+@-webkit-keyframes example4
+{
+     0%  {left:1600px; top:100px;}
+    25%  {left:150px; top:100px;}
+    50%  { left:150px; top:400px;}
+    75%  { left:1600px; top:400px;}
+    100%  {left:1600px; top:100px;}
+}
+
+/* Standard syntax */
+@keyframes example4 
+{
+    0%  {left:1600px; top:100px;}
+    25%  {left:150px; top:100px;}
+    50%  { left:150px; top:400px;}
+    75%  { left:1600px; top:400px;}
+    100%  {left:1600px; top:100px;}
+}
+@-webkit-keyframes example5
+{
+     0%  {left:700px; top:300px;}
+    25%  {left:750px; top:200px;}
+    50%  { left:1450px; top:400px;}
+    75%  { left:1450px; top:100px;}
+    100%  {left:700px; top:300px;}
+}
+
+/* Standard syntax */
+@keyframes example5 
+{
+       0%  {left:700px; top:300px;}
+    25%  {left:750px; top:200px;}
+    50%  { left:1450px; top:400px;}
+    75%  { left:1450px; top:100px;}
+    100%  {left:700px; top:300px;}
+}
+
+@-webkit-keyframes example6
+{
+     0%  {left:100px; top:300px;}
+    25%  {left:100px; top:1000px;}
+    50%  { left:1500px; top:100px;}
+    75%  { left:750px; top:50px;}
+    100% {left:100px; top:300px;}
+}
+
+/* Standard syntax */
+@keyframes example6 
+{
+  0%  {left:100px; top:300px;}
+    25%  {left:100px; top:1000px;}
+    50%  { left:1500px; top:100px;}
+    75%  { left:750px; top:50px;}
+    100% {left:100px; top:300px;}
+}
+@-webkit-keyframes example7
+{
+     0%  {left:300px; top:600px;}
+    25%  {left:700px; top:1000px;}
+    50%  { left:500px; top:1000px;}
+    75%  { left:750px; top:700px;}
+    100% {left:300px; top:600px;}
+}
+
+/* Standard syntax */
+@keyframes example7
+{
+   0%  {left:300px; top:600px;}
+    25%  {left:700px; top:1000px;}
+    50%  { left:500px; top:1000px;}
+    75%  { left:750px; top:700px;}
+    100% {left:300px; top:600px;}
+}
+#main{
+	width:600px;
+	margin:0px auto;
+	padding-top:15%;
+	font-family: 'Nixie One', cursive;
+	/*font-family: 'Julius Sans One', sans-serif;*/
+	/*font-family: 'Monda', sans-serif;*/
+		z-index:15;
+}
